@@ -169,7 +169,7 @@ while running:
 
         # Remove Days in Array
         pop_all(arr_days)
-        pop_all(arr_months)
+
         print("Reset Days Array")
         print("Reset Months Array")
 
@@ -185,3 +185,4 @@ while running:
         employee_id = input("Input Employee ID:")
         get_employee_id(employee_id)
         running = True
+        pop_all(arr_months)
