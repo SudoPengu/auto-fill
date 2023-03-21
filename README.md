@@ -1,2 +1,2 @@
-# Baka naman kahit GCash lang
-* 09664720295
+# Baka naman kahit 50 petot lang
+* Gcash - 09664720295
