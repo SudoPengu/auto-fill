@@ -186,3 +186,4 @@ while running:
         get_employee_id(employee_id)
         running = True
         pop_all(arr_months)
+        pop_all(arr_days)
